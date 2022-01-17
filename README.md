@@ -1,2 +1,5 @@
 # Computer-Networks-Course-Projects
-Projects of Computer Networks Course, University of Tehran
+
+- CA1: Implementation of an FTP Server using Socket Programming
+- CA2: Implementation of an Ethernet Switching Network using Named Pipes
+- CA3: Implementation of Multicasting Protocol using Named Pipes
