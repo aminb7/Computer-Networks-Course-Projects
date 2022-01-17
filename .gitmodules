@@ -1,0 +1,9 @@
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/aminb7/FTP-Server.git
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/aminb7/Ethernet-Switching.git
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/aminb7/Multicast-Protocol.git
